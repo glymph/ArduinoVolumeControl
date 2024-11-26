@@ -11,3 +11,7 @@ https://wokwi.com/projects/304184909747978816
 The HID-Project library is used to send the keypresses:
 
 https://github.com/NicoHood/HID/wiki/Consumer-API
+
+ArduinoMicro+RotaryEncoder.png
+
+![A photograph of an Arduino Micro and a rotary encoder on a piece of strip-board](https://github.com/glymph/ArduinoVolumeControl/blob/main/ArduinoMicro+RotaryEncoder.png?raw=true)
