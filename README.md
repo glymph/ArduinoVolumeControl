@@ -1,5 +1,5 @@
 # ArduinoVolumeControl
-Using an Arduino Micro to send volume up and down keypresses
+Using an Arduino Micro or Leonardo to send volume up and down keypresses via USB.
 
 The program in this project listens for movement of a rotary encoder and sends up and down volume media control keypresses.
 
